@@ -204,6 +204,7 @@ img {
   color: #001C54;
   opacity: 0.5;
   margin-bottom: 80px;
+  max-width: 548px;
 }
 
 .but1 {
@@ -293,6 +294,7 @@ img {
   color: #001C54;
   opacity: 0.5;
   margin-bottom: 17px;
+  max-width: 595px;
 }
 .text__img {
   max-width: 343px;
@@ -347,6 +349,7 @@ img {
   line-height: 45px;
   color: #001C54;
   opacity: 0.5;
+  max-width: 830px;
 }
 
 #text1 {
@@ -379,6 +382,7 @@ img {
   line-height: 82px;
   color: #001C54;
   margin-bottom: 24px;
+  max-width: 519px;
 }
 
 .p41 {
@@ -387,6 +391,7 @@ img {
   line-height: 33px;
   color: #001C54;
   opacity: 0.5;
+  max-width: 519px;
 }
 
 #h341 {
